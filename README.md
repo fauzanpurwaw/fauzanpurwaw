@@ -16,7 +16,12 @@ Full stack web developer yang senang membangun aplikasi web dari frontend sampai
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzanpurwaw&show_icons=true&theme=default&hide_border=true)
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanpurwaw&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanpurwaw&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fauzanpurwaw&theme=default)
 
 <!---
 fauzanpurwaw/fauzanpurwaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
